@@ -24,6 +24,8 @@ It never pushes, opens a PR, creates issues or comments on GitHub until you say 
 
 A local page that shows every feature as a line of seven stations, across all your projects. It refreshes every few seconds while `/feature` runs.
 
+![The Feature Line board: two features on their lines, one waiting on you at Review](docs/board.png)
+
 ```
 node ~/.claude/skills/feature/scripts/board.mjs open
 ```
