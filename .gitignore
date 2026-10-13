@@ -1,0 +1,4 @@
+# Your board's data: local to each machine
+board/features/
+board/data/
+.DS_Store
